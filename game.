@@ -1,0 +1,13 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <script src='js/phaser.min.js'></script>
+    <script src='js/main.js'></script>
+    <title>Game</title>
+  </head>
+  <body>
+    <div id="display">
+      
+    </div>
+  </body>
+</html>
